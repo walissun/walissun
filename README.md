@@ -2,7 +2,7 @@
 
 🎓 Formando em Tecnólogo em Transporte Terrestre  
 🚀 Apaixonado por tecnologia, mobilidade urbana e soluções inteligentes  
-📍 Salvador - BA  
+📍  Salvador - BA  
 
 💼 Ex-estagiário na Coordenação de Projetos de Trânsito (CPT) do DETRAN-BA  
 💼 Atualmente estagiando no Centro de Controle Operacional (CCO) da Secretaria de Mobilidade Urbana de Salvador (SEMOB-BA)  
