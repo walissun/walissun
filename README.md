@@ -34,6 +34,11 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walisson-rb/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:rwalisson@gmail.com)
 
+## 🚀 Projetos em Destaque
+
+🚧 Em construção...  
+Atualmente estou desenvolvendo projetos voltados à mobilidade urbana e soluções inteligentes. Em breve, conteúdos relevantes estarão disponíveis aqui!
+
 <!--
 **walissun/walissun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
