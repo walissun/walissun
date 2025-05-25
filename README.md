@@ -2,8 +2,8 @@
 
 ## 📊 Estatísticas
 
-![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=walissun&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walissun&layout=compact&theme=radical)
 
 <!--
 **walissun/walissun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
