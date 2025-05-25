@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Walisson Ribeiro Souza
+
+🎓 Formando em **Tecnólogo em Transpor Terrestre**
+🚀 Apaixonado por tecnologia, mobilidade urbana e soluções inteligentes  
+📍  Salvador - BA  
+💼 Ex-Estagiário - **Coordenação de Projetos de Trânsito** **CPT** - **DETRAN-BA** Atualmente estagiando no **Centro de Controle Operacional** **CCO** da **SECRETARIA DE MOBILIDA URBANA DE SALVADOR** **SEMOB** - **BA** 
+🧠 Participante residência **Restic36**  
+💡  Desenvolver soluções tecnológicas para otimizar o estudo e a tomada de decisão na mobilidade urbana.
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
