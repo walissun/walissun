@@ -29,7 +29,7 @@
 ![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=walissun&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walissun&layout=compact&theme=radical)
 
-## 📫 Contato
+## 📫 Coomo falar comigo?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walisson-rb/)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:rwalisson@gmail.com)
